@@ -44,9 +44,6 @@ export const metadata: Metadata = {
       "Professional digitization of photos, slides, negatives, VHS tapes, and film reels in Salado, Texas.",
     images: ["/og-default.jpg"],
   },
-  verification: {
-    google: "REPLACE_WITH_GSC_TOKEN",
-  },
 };
 
 export default function RootLayout({
